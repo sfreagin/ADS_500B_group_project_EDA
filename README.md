@@ -2,9 +2,9 @@
 ### Very light Exploratory Data Analysis files for open sharing and inspiration
 
 Hi all, this is a series of very light EDA files from the group project for ADS 500B Data Science Programming. The repository consists of 3 Jupyter Notebooks, one corresponding to each of the potential datasets from which we're allowed to choose.
-1. EDA1 - banking information
-2. EDA2 - housing information
-3. EDA3 - online shopping information
+1. EDA1.pynb - banking information
+2. EDA2.pynb - housing information
+3. EDA3.pynb - online shopping information
 
 #### This is NOT a substitute for your own due diligence and EDA!
 
